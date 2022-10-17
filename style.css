@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles:wght@700&display=swap');
+
+
 *{
     margin: 0px;
     padding: 0px;
@@ -14,6 +17,7 @@
     padding: 20px;
 }
 .nav-item a{
+  font-family: 'Fuzzy Bubbles', cursive;
   color: black;
   border-radius: 20px;
 }
@@ -25,6 +29,9 @@
     margin-top: 80px;
     text-align: center;
   
+  }
+  .feather1 h2 ,h4{
+    font-family: 'Fuzzy Bubbles', cursive;
   }
 .feather2{
     margin-left: 50px;
@@ -69,6 +76,7 @@ transform:rotate(120deg) scale(1.3);
               .about{
                 text-align: center;
                 margin-top: 30px;
+                font-family: 'Fuzzy Bubbles', cursive;
               }
               .img2{
                     width: 100%;
@@ -79,10 +87,12 @@ transform:rotate(120deg) scale(1.3);
               }
               .img_bio2{
                 margin-top: 50px;
+                font-family: 'Fuzzy Bubbles', cursive;
               }
               .skill1{
                 text-align: center;
                 margin-top: 50px;
+                font-family: 'Fuzzy Bubbles', cursive;
               }
               .ski_feather{
                 margin-top: 50px;
@@ -142,6 +152,10 @@ transform:rotate(120deg) scale(1.3);
      color: black;
      border-bottom-left-radius: 100%;
      }
+     .contac{
+      font-family: 'Fuzzy Bubbles', cursive;
+
+     }
      .full{
       font-size: 30px;
       position:fixed;
@@ -149,4 +163,124 @@ transform:rotate(120deg) scale(1.3);
      #contack{
       margin-top: 30px;
       text-align: center;
+      font-family: 'Fuzzy Bubbles', cursive;
     }
+    .contac{
+      text-align: center;
+      margin-top: 20px;
+    }
+  .ff{
+    max-width: 100%;
+  }
+  .con_fer ol li{
+    padding: 20px;
+  }
+  .con_fer ol li a{
+   color:black;
+   text-decoration: none;
+   font-weight: bold;
+  }
+  .con_fer2{
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 15px;
+  }
+  .con_fer{
+    text-align: center;
+  }
+  .faceb{
+    color: blue;
+    font-size: 30px;
+    margin-left: -50px;
+  }
+  .youtu{
+    color: red;
+    font-size: 30px;
+    margin-left: -50px;
+  }
+  .what{
+font-size: 30px;
+    color: green;
+    margin-left: -50px;
+
+  }
+  .twitt{
+    font-size: 30px;
+        color: red;
+        margin-left: -50px;
+    
+      }
+      .lindi{
+        font-size: 30px;
+        color:green;
+        margin-left: -50px;
+    
+      }
+      #fname{
+        width: 100%;
+      }
+      #lname{
+        width: 100%;
+      }
+      .foot{
+       max-width: 100%;
+      }
+      #footer{
+        margin-top: 50px;
+      }
+      .pot{
+        text-align: center;
+      }
+      .lorem{
+        text-align: center;
+      }
+      .box_cons i{
+        text-align: center;
+        margin-top: 50px;
+margin-left: 20px; 
+font-size: 20px; 
+cursor: pointer;
+color: blue;
+transition: .3s;
+font-size: 25px;
+      }
+      .box_cons i:hover{
+        color: green;
+        transform: scale(1.1);
+      }
+      .foo_con{
+        text-align: center;
+      }
+      .box_cons{
+        text-align: center;
+      }
+      .hasib{
+        text-align: center;
+      margin-left: 20px;
+      }
+      .skill{
+        text-align: center;
+        margin-left: 20px;
+      }
+      .skil_vi{
+        text-align: center;
+      }
+     #footer{
+      background-color: aqua;
+      border-bottom-left-radius: 20%;
+      border-top-right-radius: 20%;
+      padding: 20px;
+      margin-top: 20px;
+     }
+     .skil_vi ul li{
+      list-style: none;
+      padding: 15px;
+     }
+     .skil_vi ul li a{
+      text-decoration: none;
+      font-weight: bolder;
+      color: black;
+     }
+     .navbar-brand{
+      font-family: 'Fuzzy Bubbles', cursive;
+     }
